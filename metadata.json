@@ -1,0 +1,6 @@
+{
+  "name": "BioTrack",
+  "description": "Offline substance and pharmacokinetics tracker.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
